@@ -1,7 +1,7 @@
 {
   "name": "latte",
   "version": "0.0.1",
-  "description": "A Java Driven Non Monolitic Framework written in nodejs for  building Mobile First Application.",
+  "description": "A Java Driven Non Monolitic Library written in nodejs for building Mobile First Application.",
   "main": "bin/latte.js",
   "scripts": {
     "test": "mocha"
