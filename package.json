@@ -1,0 +1,27 @@
+{
+  "name": "latte",
+  "version": "0.0.1",
+  "description": "A Java Driven Non Monolitic Framework written in nodejs for  building Mobile First Application.",
+  "main": "bin/latte.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "latte",
+    "java",
+    "mobile-first",
+    "apps",
+    "networking",
+    "web"
+  ],
+  "author": "Nnamdi Michael Okpala",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/compsci86/latte.git"
+  },
+  "bugs": {
+    "url": "https://github.com/compsci86/latte/issues"
+  },
+  "homepage": "https://github.com/compsci86/latte#readme"
+}
