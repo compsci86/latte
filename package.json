@@ -8,6 +8,9 @@
     "bin": "bin",
     "doc": "docs"
   },
+  "bin": {
+    "latte": "bin/latte.js"
+  },
   "scripts": {
     "test": "mocha"
   },
