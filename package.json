@@ -3,6 +3,11 @@
   "version": "0.0.1",
   "description": "A Java Driven Non Monolitic Library written in nodejs for building Mobile First Application.",
   "main": "bin/latte.js",
+  "directories": {
+    "test": "spec",
+    "bin": "bin",
+    "doc": "docs"
+  },
   "scripts": {
     "test": "mocha"
   },
